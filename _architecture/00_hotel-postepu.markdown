@@ -5,8 +5,8 @@ date:   2016-04-09 16:57:06 +0200
 categories: architecture
 permalink: /architecture/hotel-postepu
 images:
-  - postepu_00.jpg
-  - postepu_01.jpg
+  - hotel_postepu_00.jpg
+  - hotel_postepu_01.jpg
 ---
 Concept for private Investor.<br>
 Hotel is planned in the Corporate Business and University oriented district of Warsaw.
