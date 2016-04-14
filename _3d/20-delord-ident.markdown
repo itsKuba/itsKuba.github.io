@@ -8,9 +8,9 @@ images:
   - delord-ident.gif
 ---
 Ident for polish TV production company - Delord.
-<br>
+<br />
 
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/3d/delord-ident/{{ image }}"/>
-  <br>
+  <br />
 {% endfor %}

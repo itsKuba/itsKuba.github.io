@@ -8,9 +8,9 @@ images:
   - music-school-poznan_00.jpg
 ---
 Competition Project for the Music School in Poznan, Poland.
-<br>
+<br />
 
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/architecture/music-school-poznan/{{ image }}"/>
-  <br>
+  <br />
 {% endfor %}

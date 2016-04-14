@@ -10,10 +10,10 @@ images:
   - city-experiments-02.jpg
   - city-experiments-03.jpg
 ---
-A mixture of data driven and hand modeled large scale real world city environments.<br>
-<br>
+A mixture of data driven and hand modeled large scale real world city environments.<br />
+<br />
 
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/architecture/city-experiments/{{ image }}"/>
-  <br>
+  <br />
 {% endfor %}

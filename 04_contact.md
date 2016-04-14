@@ -6,5 +6,5 @@ order: 04
 ---
 
 Drop me a mail at:
-<br>
+<br />
 > [mail@github.io](mailto:mail@github.io)

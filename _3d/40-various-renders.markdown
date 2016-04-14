@@ -11,9 +11,9 @@ images:
   - 3d_03.jpg
 ---
 Various 3D test renders.
-<br>
+<br />
 
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/3d/{{ image }}"/>
-  <br>
+  <br />
 {% endfor %}

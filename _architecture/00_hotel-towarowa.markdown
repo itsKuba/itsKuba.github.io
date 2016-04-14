@@ -13,11 +13,11 @@ images:
   - towarowa_05.jpg
   - towarowa_06.jpg
 ---
-Concept for private Investor.<br>
+Concept for private Investor.<br />
 Hotel is located in the a Financial District of Warsaw.
-<br>
+<br />
 
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/architecture/towarowa/{{ image }}"/>
-  <br>
+  <br />
 {% endfor %}

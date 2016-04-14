@@ -8,11 +8,11 @@ images:
   - hotel_postepu_00.jpg
   - hotel_postepu_01.jpg
 ---
-Concept for private Investor.<br>
+Concept for private Investor.<br />
 Hotel is planned in the Corporate Business and University oriented district of Warsaw.
-<br>
+<br />
 
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/architecture/postepu/{{ image }}"/>
-  <br>
+  <br />
 {% endfor %}

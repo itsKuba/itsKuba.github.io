@@ -8,7 +8,7 @@ images:
   - delord-ident.gif
 ---
 Promotional 'blipverts' for the album 'Golden Traxe' by 'Shadow Dancer'.
-<br>
+<br />
 
 <!-- <iframe src="https://player.vimeo.com/video/32801374?badge=0&byline=0&portrait=0&title=0&player_id=0&color=fa3635" width="720" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
