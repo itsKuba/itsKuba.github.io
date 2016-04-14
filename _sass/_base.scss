@@ -91,12 +91,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
-h7 {
-    color: $brand-color;
-}
-
-
-
 /**
  * Links
  */
@@ -111,6 +105,15 @@ a {
     &:hover {
         color: $brand-color;
         text-decoration: underline;
+    }
+
+}
+
+h7 {
+    color: $brand-color;
+    &:hover {
+        color: $brand-color;
+        text-decoration: none !important;
     }
 }
 

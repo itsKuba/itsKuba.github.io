@@ -6,9 +6,10 @@ order: 01
 ---
 
 <!-- INSERTED PROJECTS -->
-Working stages range from concept development, function planning, cad drawing, 3d modeling, and archviz.
+Working stages range from concept development, function planning, cad drawing, traditional & parametric 3d modeling, and archviz.
 <br /><br />
-Selected architectural projects are listed below.<br />
+Selected architectural projects are listed below.
+<br /><br />
 Feel free to browse through all of them.
 <br /><br />
 
