@@ -2,14 +2,12 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <!-- <header class="post-header"> -->
-  <!-- <div > -->
+
     <div class="FloatLeft">
-      /
-      <a href="./">{{ page.categories }}</a>
-      /
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      / <a href="./">{{ page.categories }}</a>
+      / <a href="{{ page.url }}">{{ page.title }}</a>
     </div>
+
     <div class="FloatRight">
       {% if page.previous.url %}
           <a href="{{page.previous.url}}"><</a>
@@ -22,8 +20,6 @@ layout: default
                 <a href="./">#</a>
       {% endif %}
     </div>
-  <!-- </div> -->
-  <!-- </header> -->
   <br />
   <br />
   <br />
