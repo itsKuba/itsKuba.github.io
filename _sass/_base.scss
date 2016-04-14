@@ -96,6 +96,7 @@ h7 {
 }
 
 
+
 /**
  * Links
  */
@@ -103,9 +104,9 @@ a {
     color: $text-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($text-color, 15%);
-    }
+    // &:visited {
+    //     color: darken($text-color, 15%);
+    // }
 
     &:hover {
         color: $brand-color;
