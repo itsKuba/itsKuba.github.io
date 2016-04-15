@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shadow Dancer - Golden Traxe | Blipverts [animation]"
+title:  "Shadow Dancer - Golden Traxe [animation]"
 date:   2016-04-09 16:57:06 +0200
 categories: 3d
 permalink: /3d/shadow-dancer-golden-traxe
