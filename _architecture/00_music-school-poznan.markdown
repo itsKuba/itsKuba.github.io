@@ -6,6 +6,7 @@ categories: architecture
 permalink: /architecture/music-school-poznan
 images:
   - music-school-poznan_00.jpg
+thumbnail: music-school-poznan_thumbnail.jpg
 ---
 Competition Project for the Music School in Poznan, Poland.
 <br />

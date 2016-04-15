@@ -12,6 +12,8 @@ images:
   - aluprof_04.jpg
   - aluprof_05.jpg
   - aluprof_06.jpg
+thumbnail:
+  - aluprof_thumbnail.jpg
 
 ---
 Closed competition project for Aluprof S.A. Headquaters in Bielsko-Biala.<br />
@@ -19,6 +21,6 @@ Concept, floor plans, and 3D model facade scripted parametrically.
 <br />
 
 {% for image in page.images %}
-  <img rel="nofollow" class="image-full" src="/assets/architecture/aluprof/{{ image }}"/>
+  <img rel="nofollow" class="image-full" src="/assets/architecture/aluprof-headquaters/{{ image }}"/>
   <br />
 {% endfor %}

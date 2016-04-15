@@ -7,6 +7,7 @@ permalink: /architecture/elblag-grainary-island
 images:
   - elblag-grainary-island_00.jpg
   - elblag-grainary-island_01.jpg
+thumbnail: elblag-grainary-island_thumbnail.jpg
 ---
 Competition Project for the Grainary Island in the city centre of Elblag, Poland.
 <br />

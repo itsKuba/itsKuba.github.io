@@ -9,11 +9,12 @@ images:
   - city-experiments-01.jpg
   - city-experiments-02.jpg
   - city-experiments-03.jpg
+thumbnail: city-experiments-thumbnail.jpg
 ---
 A mixture of data driven and hand modeled large scale city environments.<br />
 <br />
 
 {% for image in page.images %}
-  <img rel="nofollow" class="image-full" src="/assets/architecture/city-experiments/{{ image }}"/>
+  <img rel="nofollow" class="image-full" src="/assets/3d/city-experiments/{{ image }}"/>
   <br />
 {% endfor %}

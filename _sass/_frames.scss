@@ -7,6 +7,37 @@
   border: 1px solid $grey-color;
 
 }
+
+.image-thumb {
+  height: 120px;
+  background: cover;
+  width: auto;
+  border: 1px solid $grey-color;
+
+}
+
+.thumbnail-wrapper {
+
+  // border: 1px solid $grey-color;
+  // overflow: hidden;
+}
+
+.thumbnail-container {
+  height: 180px;
+  width: 100%;
+  border: 1px solid $grey-color;
+  overflow: auto;
+  display: block;
+  // align-items: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 50% 66%;
+}
+
+
+
 /**
  * iFrames
  */
