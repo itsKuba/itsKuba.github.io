@@ -3,7 +3,7 @@
  */
 .image-full {
   height: auto;
-  width: 740px;
+  width: 752px;
   border: 1px solid $grey-color;
 
 }
@@ -19,12 +19,12 @@
 .thumbnail-wrapper {
 
   // border: 1px solid $grey-color;
-  // overflow: hidden;
+overflow: hidden;
 }
 
 .thumbnail-container {
   height: 180px;
-  width: 100%;
+  max-width: 752px;
   border: 1px solid $grey-color;
   overflow: auto;
   display: block;
@@ -42,7 +42,7 @@
  * iFrames
  */
 .auto-resizable-iframe {
-  max-width: 740px;
+  max-width: 752px;
   margin: 0px auto;
 }
 
@@ -79,4 +79,5 @@
   text-align: right;
   float: right;
   overflow: hidden;
+
 }

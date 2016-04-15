@@ -4,8 +4,7 @@ title:  "VH1 Ident [animation]"
 date:   2016-04-09 16:57:06 +0200
 categories: 3d
 permalink: /3d/vh1-ident
-images:
-  - delord-ident.gif
+thumbnail: vh1-ident-thumbnail.jpg
 ---
 Concept Ident and rebranding of VH1 made during VFX & Motion Design studies.
 <br />

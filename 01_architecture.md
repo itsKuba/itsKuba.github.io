@@ -17,25 +17,24 @@ Feel free to browse through all of them.
   {% for post in site.architecture %}
   <a href="{{ post.url | prepend: site.baseurl }}">
     <div class="thumbnail-wrapper">
-      >
-
+      <div class="FloatLeft">></div>
       <div class="FloatRight">{{ post.title }}</div>
       <br /><br />
+      <div class="thumbnail-container" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
 
-        <div class="thumbnail-container" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
-        <br /><br />
     </div>
   </a>
+  <br /><br />
   {% endfor %}
 </ul>
 
-<ul class="post-list">
+<!-- <ul class="post-list">
   {% for post in site.architecture %}
 
       >&nbsp;<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       <br /><br />
 
     {% endfor %}
-  </ul>
+  </ul> -->
 
 <!-- INSERTED PROJECTS - CLOSED -->

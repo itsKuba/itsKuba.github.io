@@ -4,8 +4,7 @@ title:  "Shadow Dancer - Golden Traxe | Blipverts [animation]"
 date:   2016-04-09 16:57:06 +0200
 categories: 3d
 permalink: /3d/shadow-dancer-golden-traxe
-images:
-  - delord-ident.gif
+thumbnail: shadow-dancer-golden-traxe-thumbnail.jpg
 ---
 Promotional 'blipverts' for the album 'Golden Traxe' by 'Shadow Dancer'.
 <br />

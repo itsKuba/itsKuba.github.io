@@ -7,4 +7,4 @@ order: 04
 
 Drop me a mail at:
 <br />
-> [mail@github.io](mailto:mail@github.io)
+> [kuba@mail.io](#)
