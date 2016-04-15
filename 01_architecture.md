@@ -13,7 +13,7 @@ Selected architectural projects are listed below.
 Feel free to browse through all of them.
 <br /><br />
 
-<ul class="post-list">
+<!-- <ul class="post-list">
   {% for post in site.architecture %}
   <a href="{{ post.url | prepend: site.baseurl }}">
     <div class="thumbnail-wrapper">
@@ -26,15 +26,15 @@ Feel free to browse through all of them.
   </a>
   <br /><br />
   {% endfor %}
-</ul>
+</ul> -->
 
-<!-- <ul class="post-list">
+<ul class="post-list">
   {% for post in site.architecture %}
 
       >&nbsp;<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       <br /><br />
 
     {% endfor %}
-  </ul> -->
+  </ul>
 
 <!-- INSERTED PROJECTS - CLOSED -->
