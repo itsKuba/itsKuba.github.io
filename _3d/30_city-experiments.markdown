@@ -13,7 +13,7 @@ thumbnail: city-experiments-thumbnail.jpg
 ---
 A mixture of data driven and hand modeled large scale city environments.<br />
 <br />
-
+<br />
 {% for image in page.images %}
   <img rel="nofollow" class="image-full" src="/assets/3d/city-experiments/{{ image }}"/>
   <br />
