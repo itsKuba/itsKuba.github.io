@@ -3,6 +3,21 @@
 @charset "utf-8";
 
 $base-font-family: "Hack", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+
+  // Hack v2.019 - https://sourcefoundry.org/hack/
+  // Licenses - Fonts: Hack Open Font License + Bitstream Vera license, CSS: MIT License
+  @font-face {
+    font-family:'Hack';
+    src:url('https://cdn.jsdelivr.net/font-hack/2.019/fonts/eot/hack-regular-webfont.eot?v=2.019');
+    src:url('https://cdn.jsdelivr.net/font-hack/2.019/fonts/eot/hack-regular-webfont.eot?#iefix&v=2.019') format('embedded-opentype'),
+    url('https://cdn.jsdelivr.net/font-hack/2.019/fonts/woff2/hack-regular-webfont.woff2?v=2.019') format('woff2'),
+    url('https://cdn.jsdelivr.net/font-hack/2.019/fonts/woff/hack-regular-webfont.woff?v=2.019') format('woff'),
+    url('https://cdn.jsdelivr.net/font-hack/2.019/fonts/web-ttf/hack-regular-webfont.ttf?v=2.019') format('truetype');
+    font-weight:300;
+    font-style:normal
+  }
+
+
 $base-font-size:   12px;
 $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
