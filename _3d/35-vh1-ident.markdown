@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VH1 Ident [animation]"
+title:  "VH1 - Ident [animation]"
 date:   2016-04-09 16:57:06 +0200
 categories: 3d
 permalink: /3d/vh1-ident

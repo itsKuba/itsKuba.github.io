@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Unbreakable' - Title Sequence [animation]"
+title:  "Unbreakable - Title Sequence [animation]"
 date:   2016-04-09 16:57:06 +0200
 categories: 3d
 permalink: /3d/unbreakable-titlesequence

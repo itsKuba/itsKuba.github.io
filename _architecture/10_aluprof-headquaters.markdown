@@ -5,13 +5,13 @@ date:   2016-04-09 16:57:06 +0200
 categories: architecture
 permalink: /architecture/aluprof-headquaters
 images:
-  - aluprof_00.jpg
   - aluprof_01.jpg
   - aluprof_02.jpg
   - aluprof_03.jpg
   - aluprof_04.jpg
   - aluprof_05.jpg
   - aluprof_06.jpg
+  - aluprof_07.jpg
 thumbnail:
   - aluprof_thumbnail.jpg
 
