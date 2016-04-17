@@ -8,7 +8,7 @@ images:
   - proxydude-unity3d-02.jpg
   - proxydude-unity3d-01.jpg
   - proxydude-unity3d-anim.gif
-  - proxydude-unity3d-code.png
+  - proxydude-unity3d-03.png
 thumbnail: proxydude-unity3d-02.jpg
 ---
 Game development with Unity3d and C#. Proxy 3d models. Implemented controls, primitive enemy AI pathtracing, and collectibles for score keeping. In game obstacles are destructible. Work in progress.<br />
