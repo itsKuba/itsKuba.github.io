@@ -77,10 +77,6 @@ a {
     color: $text-color;
     text-decoration: underline;
 
-    // &:visited {
-    //     color: darken($text-color, 15%);
-    // }
-
     &:hover {
         color: $brand-color;
         text-decoration: underline;
@@ -90,9 +86,10 @@ a {
 
 h7 {
     color: $brand-color;
+    text-decoration: none;
     &:hover {
         color: $brand-color;
-        text-decoration: none !important;
+        text-decoration: none;
     }
 }
 

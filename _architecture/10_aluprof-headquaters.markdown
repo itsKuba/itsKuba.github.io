@@ -12,6 +12,7 @@ images:
   - aluprof_05.jpg
   - aluprof_06.jpg
   - aluprof_07.jpg
+  - aluprof_08.jpg
 thumbnail:
   - aluprof_thumbnail.jpg
 

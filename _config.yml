@@ -16,6 +16,9 @@ collections:
   architecture:
     output: true
     permalink: architecture/:title
-  3d:
+  graphics:
     output: true
-    permalink: 3d/:title
+    permalink: graphics/:title
+  animation:
+    output: true
+    permalink: animation/:title
