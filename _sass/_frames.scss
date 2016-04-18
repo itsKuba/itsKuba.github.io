@@ -22,7 +22,7 @@
 overflow: hidden;
 }
 
-.thumbnail-container {
+.thumbnail-container-arch {
   height: 180px;
   max-width: 752px;
   border: 1px solid $grey-color;
@@ -33,7 +33,22 @@ overflow: hidden;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-position: 50% 66%;
+  background-position: 0% 71%;
+}
+
+.thumbnail-container-graphic {
+  height: 180px;
+  max-width: 752px;
+  border: 1px solid $grey-color;
+  overflow: auto;
+  display: block;
+  // align-items: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  // background-position: 25% 55%;
+  background-position: center;
 }
 
 
@@ -79,5 +94,4 @@ overflow: hidden;
   text-align: right;
   float: right;
   overflow: hidden;
-
 }

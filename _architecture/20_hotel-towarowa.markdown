@@ -15,7 +15,7 @@ images:
 thumbnail: towarowa_thumbnail.jpg
 ---
 Concept for private developer.<br />
-Hotel is located in the a Financial District of Warsaw.
+Hotel is located in the new Financial District of Wola in Warsaw.
 <br />
 <br />
 {% for image in page.images %}

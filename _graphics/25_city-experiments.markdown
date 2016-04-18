@@ -11,7 +11,7 @@ images:
   - city-experiments-03.jpg
 thumbnail: city-experiments-thumbnail.jpg
 ---
-Large scale 3d city environment of Warsaw, Poland, achieved through a mixture of OSM-data driven model generation, geometry capture of DirectX data streams, and traditional poly modeling.<br />
+Large scale 3d city environment of Warsaw, Poland, achieved through a mixture of OSM-data driven model generation, DirectX geometry capture, and traditional poly modeling.<br />
 <br />
 <br />
 {% for image in page.images %}

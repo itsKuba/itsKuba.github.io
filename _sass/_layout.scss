@@ -48,7 +48,7 @@
         // letter-spacing: -0.5px;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-right: 8px;
         }
     }
 
@@ -64,20 +64,9 @@
         .menu-icon {
             display: block;
             float: right;
-            // width: 36px;
-            // height: 26px;
             line-height: 48px;
-            // padding-top: 10px;
             text-align: center;
 
-            // > svg {
-            //     width: 18px;
-            //     height: 15px;
-            //
-            //     path {
-            //         fill: $grey-color-dark;
-            //     }
-            //}
         }
 
         .trigger {
@@ -92,7 +81,7 @@
 
         .page-link {
             display: block;
-            // padding: 5px 10px;
+            padding: 3px 0px;
 
             &:not(:last-child) {
                 margin-right: 0;

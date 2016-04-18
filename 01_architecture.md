@@ -8,7 +8,7 @@ order: 01
 <!-- INSERTED PROJECTS -->
 Working stages range from concept development, function planning, cad drawing, traditional & parametric 3d modeling, and archviz.
 <br /><br />
-Selected architectural projects are listed below.
+Selected notable architectural projects are listed below.
 <br />
 <ul class="post-list">
   {% for post in site.architecture %}
@@ -28,7 +28,7 @@ Feel free to browse through all of them.
       <div class="FloatLeft">></div>
       <div class="FloatRight">{{ post.title }}</div>
       <br /><br />
-      <div class="thumbnail-container" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
+      <div class="thumbnail-container-arch" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
 
     </div>
   </a>

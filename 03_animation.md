@@ -27,7 +27,7 @@ Feel free to browse through all of them.
       <div class="FloatLeft">></div>
       <div class="FloatRight">{{ post.title }}</div>
       <br /><br />
-      <div class="thumbnail-container" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
+      <div class="thumbnail-container-graphic" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
 
     </div>
   </a>

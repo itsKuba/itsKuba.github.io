@@ -13,12 +13,14 @@ images:
   - aluprof_06.jpg
   - aluprof_07.jpg
   - aluprof_08.jpg
+  - aluprof_09.jpg
+  - aluprof_10.jpg
 thumbnail:
   - aluprof_thumbnail.jpg
 
 ---
 Closed competition project for Aluprof S.A. Headquaters in Bielsko-Biala.<br />
-Concept, floor plans, and 3D model facade scripted parametrically.
+Concept, floor plans, and 3D model facade created parametrically.
 <br />
 <br />
 {% for image in page.images %}
