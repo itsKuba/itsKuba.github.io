@@ -15,7 +15,7 @@ Concept Ident and logotype rebranding of VH1 made during VFX & Motion Design stu
 
 <div class="auto-resizable-iframe">
   <div>
-    <iframe frameborder="0" allowfullscreen="" webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://player.vimeo.com/video/23381805?badge=0&byline=0&portrait=0&title=0&player_id=0&color=fa3635"></iframe>
+    <iframe frameborder="0" allowfullscreen="" webkitallowfullscreen mozallowfullscreen allowfullscreen src="http://player.vimeo.com/video/23381805?badge=0&byline=0&portrait=0&title=0&player_id=0&color=fa3635"></iframe>
   </div>
 </div>
 <br />
