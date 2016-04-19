@@ -6,10 +6,10 @@ categories: architecture
 permalink: /architecture/various-projects
 images:
   - uniwersal-night.jpg
+  - hotel_postepu.jpg
   - music_school_zurich.jpg
   - stadium_spacegrid.jpg
   - bridge_grid.jpg
-  - hotel_postepu.jpg
   - urban_villa_filtrowa.jpg
 thumbnail: various-projects-thumbnail.jpg
 ---
