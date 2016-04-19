@@ -15,7 +15,6 @@ images:
   - 3d_geometry.jpg
   - 3d_memories.jpg
   - 3d_violence.jpg
-  - 3d_trees.jpg
 thumbnail: various-renders-thumbnail.jpg
 ---
 Various 3d model, texture, shader, and lighting render tests.<br />
