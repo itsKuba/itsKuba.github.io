@@ -13,7 +13,7 @@ images:
   - urban_villa_filtrowa.jpg
 thumbnail: various-projects-thumbnail.jpg
 ---
-Various architectural project renders and screenshots.
+Various architectural projects, renders and work in progress screenshots.
 <br />
 <br />
 {% for image in page.images %}

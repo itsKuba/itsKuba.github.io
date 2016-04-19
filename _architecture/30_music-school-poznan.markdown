@@ -18,7 +18,7 @@ images:
   - music-school-poznan-plans-area.jpg
 thumbnail: music-school-poznan-thumbnail.jpg
 ---
-Competition Project for the Music School in Poznan, Poland.
+Competition project for the Music School in Poznan, Poland.
 <br />
 <br />
 {% for image in page.images %}
