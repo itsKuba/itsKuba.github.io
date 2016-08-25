@@ -6,20 +6,28 @@
       <div class="FloatLeft">
         <a class="prev" href="{{page.previous.url}}"><</a>
       </div>
+
+      <!--
       {% else %}
         <div class="FloatLeft">
           <a class="next" href="./">#</a>
-        </div>
-    {% endif %}
+          </div>
+      -->
+
+  {% endif %}
 
     {% if page.next.url %}
       <div class="FloatRight">
           <a class="next" href="{{page.next.url}}">></a>
         </div>
+
+      <!--
         {% else %}
         <div class="FloatRight">
             <a class="next" href="./">#</a>
           </div>
+      -->
+
     {% endif %}
     <br />
     <br />
