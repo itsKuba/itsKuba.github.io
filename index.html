@@ -7,9 +7,24 @@ layout: default
   <br /><br /><br />
   The work shown includes a selection of projects in  architecture, 3d, vfx & motiongraphics, 2d graphic design, and other visual and or code related experiments from the past few years.
   <br /><br />
-  Navigate through the different sections above.
+  Navigate through the different sections above or individual projects listed below.
   <br />
   <br />
+<ul class="post-list">
+  {% for post in site.architecture %}
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <div class="thumbnail-wrapper">
+      <div class="FloatLeft">></div>
+      <div class="FloatRight">{{ post.title }}</div>
+      <br /><br />
+      <div class="thumbnail-container-arch" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
+
+    </div>
+  </a>
+  <br /><br />
+  {% endfor %}
+</ul>
+
   <!-- <div class="FloatLeft">Enjoy!</div> -->
   <a href="/made-with-love/"><div class="FloatLeft"><h7><3</h7></div></a>
 </div>
