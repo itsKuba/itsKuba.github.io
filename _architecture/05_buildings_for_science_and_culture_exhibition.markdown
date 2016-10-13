@@ -15,6 +15,6 @@ Exhibition Design for 'Buildings for Science and Culture' Exhibition in the AEDE
 <br />
 <br />
 {% for image in page.images %}
-  <img rel="nofollow" class="image-full" src="/assets/architecture/various-projects/{{ image }}"/>
+  <img rel="nofollow" class="image-full" src="/assets/architecture/buildings-for-science-and-culture-exhibition/{{ image }}"/>
   <br />
 {% endfor %}
