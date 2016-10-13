@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Buildings For Science and Culture Exhibition"
+title:  "Buildings For Science and Culture Exhibition at AEDES Architecture Forum Gallery"
 date:   2016-04-09 16:57:06 +0200
 categories: architecture
 permalink: /architecture/buildings-for-science-and-culture-exhibition
