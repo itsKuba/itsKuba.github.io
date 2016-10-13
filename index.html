@@ -11,8 +11,13 @@ layout: default
   <br />
   <br />
 
+  <!-- <div class="FloatLeft">Enjoy!</div> -->
+  <a href="/made-with-love/"><div class="FloatLeft"><h7><3</h7></div></a>
 
-  / <a href="/architecture">architecture</a>
+  <br />
+  <br />
+
+  / <a href="/architecture">architecture</a><br /><br /><br />
 <ul class="post-list">
   {% for post in site.architecture %}
   <a href="{{ post.url | prepend: site.baseurl }}">
@@ -28,6 +33,42 @@ layout: default
   {% endfor %}
 </ul>
 
-  <!-- <div class="FloatLeft">Enjoy!</div> -->
-  <a href="/made-with-love/"><div class="FloatLeft"><h7><3</h7></div></a>
+  <br />
+  <br />
+
+  / <a href="/graphics">graphics</a><br /><br /><br />
+<ul class="post-list">
+  {% for post in site.architecture %}
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <div class="thumbnail-wrapper">
+      <div class="FloatLeft">></div>
+      <div class="FloatRight">{{ post.title }}</div>
+      <br /><br />
+      <div class="thumbnail-container-arch" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
+
+    </div>
+  </a>
+  <br /><br />
+  {% endfor %}
+</ul>
+
+  <br />
+  <br />
+
+  / <a href="/animation">animation</a><br /><br /><br />
+<ul class="post-list">
+  {% for post in site.architecture %}
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <div class="thumbnail-wrapper">
+      <div class="FloatLeft">></div>
+      <div class="FloatRight">{{ post.title }}</div>
+      <br /><br />
+      <div class="thumbnail-container-arch" style="background-image: url('/assets{{ post.url }}/{{ post.thumbnail }}')"></div>
+
+    </div>
+  </a>
+  <br /><br />
+  {% endfor %}
+</ul>
+
 </div>
