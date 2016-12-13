@@ -1,0 +1,47 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script type="text/javascript">
+
+
+function changecolor() {
+document.getElementById("h1").style.color = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
+
+document.getElementById("body").style.backgroundColor = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
+}
+
+$(window).on('load', function(){
+    
+document.getElementById("h1").style.color = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
+
+document.getElementById("body").style.backgroundColor = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
+                    
+});
+</script>
+
+</head>
+<body id="body" 
+
+style="font-size:48px; text-align:center;"
+
+>
+
+
+<h1 id="h1"> U WOT M8</h2>
+
+<button
+
+style="font-size:48px; text-align:center;"
+
+ onclick="changecolor()">LOL WAT</button>
+
+
+</body>
+</html>
+
+
+
+
+
