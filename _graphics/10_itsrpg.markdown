@@ -24,6 +24,6 @@ C# powered by prior developped procedurally generated endless 3d tilemaps, AI Pa
 <br />
 <br />
 {% for image in page.images %}
-  <img rel="nofollow" class="image-full" src="/assets/graphics/proxydude-unity3d-gamedev/{{ image }}"/>
+  <img rel="nofollow" class="image-full" src="/assets/graphics/itsrpg-gamedev/{{ image }}"/>
   <br />
 {% endfor %}
