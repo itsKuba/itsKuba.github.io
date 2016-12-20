@@ -7,20 +7,16 @@ permalink: /graphics/itsrpg-gamedev
 images:
   - itsrpg-scene.png
   - itsrpg-scene-closeup.png
-  - itsrpg-hero.png
-  - itsrpg-skeleton1.png
-  - itsrpg-skeleton2.png
-  - itsrpg-zombie.png
-  - itsrpg-shaman.png
+  - itsrpg-characters.png
   - itsrpg-skeleton-walkcycle.gif
+  - itsrpg-face-arrow-closeup.jpg
   - itsrpg-face-arrow.gif
   - itsrpg-face-arrow-closeup.gif
-  - itsrpg-face-arrow-closeup.jpg
 
 thumbnail: itsrpg-scene.png
 ---
 Game Assets for WIP Crossplatform but Mobile first isometric Roguelike RPG.<br />
-C# powered by prior developped procedurally generated endless 3d tilemaps, AI Pathfinding & other concept game mechanics. <br />
+Powered by procedurally generated endless 3d tilemaps, AI Pathfinding & Manual Animation mixed with physical dynamics.<br />
 <br />
 <br />
 {% for image in page.images %}
