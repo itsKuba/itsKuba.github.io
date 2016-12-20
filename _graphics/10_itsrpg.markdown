@@ -17,7 +17,7 @@ images:
   - itsrpg-face-arrow-closeup.gif
   - itsrpg-face-arrow-closeup.jpg
 
-thumbnail: itsrpg-scene.jpg
+thumbnail: itsrpg-scene.png
 ---
 Game Assets for WIP Crossplatform but Mobile first isometric Roguelike RPG.<br />
 C# powered by prior developped procedurally generated endless 3d tilemaps, AI Pathfinding & other concept game mechanics. <br />
