@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ProxyDude - Unity3d & C# GameDev"
+title:  "itsRPG - GameDev WIP"
 date:   2016-04-09 16:57:06 +0200
 categories: graphics
 permalink: /graphics/itsrpg-gamedev
@@ -19,7 +19,8 @@ images:
 
 thumbnail: itsrpg-scene.jpg
 ---
-Experimental 3d isometric game development with Unity3d and C#. Turnbased gameplay with implemented controls, primitive enemy AI pathtracing, and collectibles for health/damage and score keeping. Obstacles and enemies are destructible, toughness is distinguished by color coding. Work in progress.<br />
+Game Assets for WIP Crossplatform but Mobile first isometric Roguelike RPG.<br />
+C# powered by prior developped procedurally generated endless 3d tilemaps, AI Pathfinding & other concept game mechanics. <br />
 <br />
 <br />
 {% for image in page.images %}
