@@ -10,8 +10,8 @@ images:
   - itsrpg-characters.png
   - itsrpg-skeleton-walkcycle.gif
   - itsrpg-face-arrow.jpg
-  - itsrpg-face-arrow.gif
   - itsrpg-face-arrow-closeup.gif
+  - itsrpg-face-arrow.gif
 
 thumbnail: itsrpg-scene.png
 ---
