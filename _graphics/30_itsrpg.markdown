@@ -7,7 +7,7 @@ permalink: /graphics/itsrpg-gamedev
 images:
   - itsrpg-scene.png
   - itsrpg-scene-closeup.png
-  - itsrpg-characters.png
+  - itsrpg-characters.jpg
   - itsrpg-skeleton-walkcycle.gif
   - itsrpg-face-arrow.jpg
   - itsrpg-face-arrow-closeup.gif
